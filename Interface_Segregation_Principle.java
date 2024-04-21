@@ -1,4 +1,4 @@
-mimport java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.List;
 
 // Interface representing the ability to eat
